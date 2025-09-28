@@ -22,12 +22,12 @@
 ---
 
 ## 🚀 Featured Projects
-- [E-Commerce Flutter App](https://github.com/ibrahem-zakria/flutter_ecommerce_app)  
-- [Todo App with Hive](https://github.com/ibrahem-zakria/flutter_todo_app)  
-- [Authentication with Firebase](https://github.com/ibrahem-zakria/flutter_auth_app)  
+- [fruits_hub](https://github.com/IbrahemZakria/fruits_hub)  
+- [flutter_hub_dash_board](https://github.com/IbrahemZakria/flutter_hub_dash_board)  
+- [Bookley app](https://github.com/IbrahemZakria/BOOK)  
 
 ---
 
 ## 📊 GitHub Stats
-![Ibrahem's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrahem-zakria&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahem-zakria&layout=compact&theme=tokyonight)
+![Ibrahem's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahemZakria&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahemZakria&layout=compact&theme=tokyonight)
