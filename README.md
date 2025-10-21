@@ -1,5 +1,5 @@
 # Hi, I'm Ibrahem Zakria 👋  
-🚀 Flutter Developer | Clean Architecture Enthusiast  
+🚀 Junior Flutter Developer 
 
 ---
 
