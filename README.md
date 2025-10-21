@@ -24,8 +24,9 @@
 
 ## 🚀 Featured Projects
 - [fruits_hub](https://github.com/IbrahemZakria/fruits_hub)  
-- [flutter_hub_dash_board](https://github.com/IbrahemZakria/flutter_hub_dash_board)  
-- [Bookley app](https://github.com/IbrahemZakria/BOOK)  
+- [flutter_hub_dash_board](https://github.com/IbrahemZakria/flutter_hub_dash_board)
+- [responsive_fruits](https://github.com/IbrahemZakria/responsive_fruits)
+- [Bookley app](https://github.com/IbrahemZakria/BOOK)
 
 ---
 
