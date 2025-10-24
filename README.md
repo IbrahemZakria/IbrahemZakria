@@ -1,17 +1,17 @@
-# Hi, I'm Ibrahem Zakria 👋  
-🚀 Junior Flutter Developer 
+# Hi, I'm Ibrahem Zakria   
+ Junior Flutter Developer 
 
 ---
 
-## 💼 About Me
-- 🌱 I’m currently learning **Clean Architecture & Stripe Integration**  
-- 💻 Passionate about building modern mobile applications with **Flutter**  
-- 🎯 My goal: Becoming a **professional Flutter Developer** and contributing to open-source projects  
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/ibrahem-zakria-66b554281/) | ibrahemzakria71@gmail.com  
+##  About Me
+-  I’m currently learning **Clean Architecture & Stripe Integration**  
+-  Passionate about building modern mobile applications with **Flutter**  
+-  My goal: Becoming a **professional Flutter Developer** and contributing to open-source projects  
+-  Reach me: [LinkedIn](https://www.linkedin.com/in/ibrahem-zakria-66b554281/) | ibrahemzakria71@gmail.com  
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=flat)
@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 - [fruits_hub](https://github.com/IbrahemZakria/fruits_hub)  
 - [flutter_hub_dash_board](https://github.com/IbrahemZakria/flutter_hub_dash_board)
 - [responsive_fruits](https://github.com/IbrahemZakria/responsive_fruits)
@@ -30,6 +30,6 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 ![Ibrahem's GitHub stats](https://github-readme-stats.vercel.app/api?username=IbrahemZakria&show_icons=true&theme=tokyonight)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahemZakria&layout=compact&theme=tokyonight)
